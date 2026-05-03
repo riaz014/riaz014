@@ -47,11 +47,12 @@ I am a **Software Engineer** with a strong foundation in building scalable, inte
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riaz014&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riaz014&layout=compact&theme=radical" width="48%">
+  <a href="https://github.com/riaz014">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=riaz014&theme=radical&background=0D1117&border=30363D" alt="riaz014's GitHub Streak" />
+  </a>
 </p>
 
 ---
