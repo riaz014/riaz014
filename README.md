@@ -40,7 +40,7 @@ const walid: Developer = {
   philosophy: "Clean code is not written — it is rewritten.",
 
   contact: {
-    email:    "riaz26112233@gmail.com",
+    email:    "Text me on Linkedin I will response",
     linkedin: "linkedin.com/in/riaz1122",
     github:   "github.com/riaz014",
   },
